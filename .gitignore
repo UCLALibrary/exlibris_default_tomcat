@@ -1,0 +1,2 @@
+# Filter to ignore Subversion content
+../\.svn/
